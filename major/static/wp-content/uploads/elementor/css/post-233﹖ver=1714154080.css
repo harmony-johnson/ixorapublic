@@ -1,0 +1,184 @@
+.elementor-233 .elementor-element.elementor-element-4ef8b08 {
+	--display: flex;
+	--min-height: 500px;
+	--flex-direction: row;
+	--container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+	--container-widget-height: 100%;
+	--container-widget-flex-grow: 1;
+	--container-widget-align-self: stretch;
+	--justify-content: center;
+	--align-items: center;
+	--gap: 0px 0px;
+	--background-transition: 0.3s;
+	--overlay-opacity: 0.87;
+	--margin-top: -100px;
+	--margin-bottom: 0px;
+	--margin-left: 0px;
+	--margin-right: 0px;
+	--padding-top: 6em;
+	--padding-bottom: 2em;
+	--padding-left: 0em;
+	--padding-right: 0em;
+}
+
+.elementor-233 .elementor-element.elementor-element-4ef8b08:not(.elementor-motion-effects-element-type-background),
+.elementor-233 .elementor-element.elementor-element-4ef8b08>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+  background-image:url("https://plus.unsplash.com/premium_photo-1679496470437-a09743179634?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.elementor-233 .elementor-element.elementor-element-4ef8b08::before,
+.elementor-233 .elementor-element.elementor-element-4ef8b08>.elementor-background-video-container::before,
+.elementor-233 .elementor-element.elementor-element-4ef8b08>.e-con-inner>.elementor-background-video-container::before,
+.elementor-233 .elementor-element.elementor-element-4ef8b08>.elementor-background-slideshow::before,
+.elementor-233 .elementor-element.elementor-element-4ef8b08>.e-con-inner>.elementor-background-slideshow::before,
+.elementor-233 .elementor-element.elementor-element-4ef8b08>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
+	--background-overlay: '';
+	background-color: black;
+	opacity: 0.5;
+}
+
+.elementor-233 .elementor-element.elementor-element-4ef8b08,
+.elementor-233 .elementor-element.elementor-element-4ef8b08::before {
+	--border-transition: 0.3s;
+}
+
+.elementor-233 .elementor-element.elementor-element-856d490 {
+	--display: flex;
+	--justify-content: center;
+	--align-items: center;
+	--container-widget-width: calc((1 - var(--container-widget-flex-grow)) * 100%);
+	--gap: 0px 0px;
+	--background-transition: 0.3s;
+}
+
+.elementor-233 .elementor-element.elementor-element-26d059d {
+	text-align: center;
+}
+
+.elementor-233 .elementor-element.elementor-element-26d059d .elementor-heading-title {
+	color: var(--e-global-color-c6ee8f7);
+	font-family: "El Messiri", Sans-serif;
+	font-size: 2.5rem;
+	font-weight: 600;
+	text-transform: capitalize;
+}
+
+.elementor-233 .elementor-element.elementor-element-babd920 {
+	--display: flex;
+	--flex-direction: row;
+	--container-widget-width: initial;
+	--container-widget-height: 100%;
+	--container-widget-flex-grow: 1;
+	--container-widget-align-self: stretch;
+	--gap: 0em 5em;
+	--background-transition: 0.3s;
+	--padding-top: 5em;
+	--padding-bottom: 3em;
+	--padding-left: 0em;
+	--padding-right: 0em;
+}
+
+.elementor-233 .elementor-element.elementor-element-babd920:not(.elementor-motion-effects-element-type-background),
+.elementor-233 .elementor-element.elementor-element-babd920>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+	background-color: var(--e-global-color-c6ee8f7);
+}
+
+.elementor-233 .elementor-element.elementor-element-babd920,
+.elementor-233 .elementor-element.elementor-element-babd920::before {
+	--border-transition: 0.3s;
+}
+
+.elementor-233 .elementor-element.elementor-element-369b022 {
+	--display: flex;
+	--background-transition: 0.3s;
+}
+
+.elementor-233 .elementor-element.elementor-element-99ecec2 .elementor-post__meta-data span+span:before {
+	content: "•";
+}
+
+.elementor-233 .elementor-element.elementor-element-99ecec2 {
+	--grid-column-gap: 30px;
+	--grid-row-gap: 35px;
+}
+
+.elementor-233 .elementor-element.elementor-element-99ecec2 .elementor-post__card {
+	background-color: var(--e-global-color-f0d5716);
+	border-radius: 10px;
+}
+
+.elementor-233 .elementor-element.elementor-element-99ecec2 .elementor-post__title,
+.elementor-233 .elementor-element.elementor-element-99ecec2 .elementor-post__title a {
+	color: var(--e-global-color-506b632);
+	font-family: "El Messiri", Sans-serif;
+	font-size: 1.5rem;
+	font-weight: 600;
+}
+
+.elementor-233 .elementor-element.elementor-element-99ecec2 .elementor-post__excerpt p {
+	color: var(--e-global-color-text);
+}
+
+.elementor-233 .elementor-element.elementor-element-99ecec2 .elementor-pagination {
+	text-align: center;
+}
+
+body:not(.rtl) .elementor-233 .elementor-element.elementor-element-99ecec2 .elementor-pagination .page-numbers:not(:first-child) {
+	margin-left: calc(10px/2);
+}
+
+body:not(.rtl) .elementor-233 .elementor-element.elementor-element-99ecec2 .elementor-pagination .page-numbers:not(:last-child) {
+	margin-right: calc(10px/2);
+}
+
+body.rtl .elementor-233 .elementor-element.elementor-element-99ecec2 .elementor-pagination .page-numbers:not(:first-child) {
+	margin-right: calc(10px/2);
+}
+
+body.rtl .elementor-233 .elementor-element.elementor-element-99ecec2 .elementor-pagination .page-numbers:not(:last-child) {
+	margin-left: calc(10px/2);
+}
+
+@media(min-width:768px) {
+	.elementor-233 .elementor-element.elementor-element-856d490 {
+		--width: 80%;
+	}
+}
+
+@media(max-width:767px) {
+	.elementor-233 .elementor-element.elementor-element-4ef8b08 {
+		--min-height: 300px;
+		--padding-top: 8em;
+		--padding-bottom: 3em;
+		--padding-left: 1em;
+		--padding-right: 1em;
+	}
+
+	.elementor-233 .elementor-element.elementor-element-856d490 {
+		--padding-top: 0px;
+		--padding-bottom: 0px;
+		--padding-left: 0px;
+		--padding-right: 0px;
+	}
+
+	.elementor-233 .elementor-element.elementor-element-26d059d .elementor-heading-title {
+		font-size: 1.5rem;
+	}
+
+	.elementor-233 .elementor-element.elementor-element-babd920 {
+		--padding-top: 3em;
+		--padding-bottom: 3em;
+		--padding-left: 1em;
+		--padding-right: 1em;
+	}
+
+	.elementor-233 .elementor-element.elementor-element-369b022 {
+		--padding-top: 0px;
+		--padding-bottom: 0px;
+		--padding-left: 0px;
+		--padding-right: 0px;
+	}
+}

@@ -1,0 +1,98 @@
+/* HOME */
+
+.background-video-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  /* aspect-ratio: 16/16; */
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.background-video {
+  width: 100%;
+  height: 100%;
+}
+
+.banner_wrapper.home {
+  padding-top: 10%;
+  padding-bottom: 0;
+}
+
+
+/* ABOUT US */
+.about-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 5%;
+	font-family: "El Messiri", Sans-serif;
+}
+
+.about-card {
+  background-color: #e3f2fd;
+  max-width: 800px;
+  margin-bottom: 1em;
+  padding: 20px;
+  border-radius: 9px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.core-divide {
+  display: none;
+}
+
+
+.core-value {
+  padding-bottom: 10px;
+  border-bottom: 1px solid black;
+}
+
+/* SALES LETTER */
+.sales-letter-container {
+	font-family: "El Messiri", Sans-serif;
+  padding: 10%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.banner_wrapper{
+  padding: 0 10% 10%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  /* align-items: center; */
+}
+
+.banner-image img {
+  max-height: 700px;
+  max-width: 100%;
+  width: 100%;
+  height: 100%;
+}
+
+.elementor-button.button-blue {
+  background-color: var(--e-global-color-accent);
+}
+
+@media (min-width: 760px) {
+  .core-values {
+    /* border: 1px red dotted; */
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+  }
+
+  .core-divide {
+    display: block;
+    min-height: 100%;
+    /* width: 10px; */
+    border: 1px solid black;
+  }
+}
